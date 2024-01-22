@@ -1,4 +1,5 @@
 # Pomodoro
+This is a small project I did for Appgud hackathon!
 ## Inspiration
 The inspiration behind creating this Pomodoro website was to provide users with a simple and effective tool for managing their work and study sessions. The Pomodoro technique has proven to be a valuable productivity method, and I wanted to bring its benefits to users through a user-friendly online platform.
 
